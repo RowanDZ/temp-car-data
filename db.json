@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": "car1",
+            "brand": "BMW",
+            "make": "3-serie",
+            "type": "330e",
+            "introductionYear": "2020",
+            "fuel": "HYBRID"
+        },
+        {
+            "id": "car2",
+            "brand": "TESLA",
+            "make": "Model S",
+            "type": "Long Range",
+            "introductionYear": "2019",
+            "fuel": "ELECTRIC"
+        },
+        {
+            "id": "car3",
+            "brand": "Audi",
+            "make": "A4",
+            "type": "1.8 TFSI",
+            "introductionYear": "2020",
+            "fuel": "GASOLINE"
+        }
+    ],
+    "page": 1,
+    "pageSize": 25,
+    "totalItems": 99,
+    "totalPages": 4
+}
